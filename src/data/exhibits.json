@@ -1,0 +1,206 @@
+[
+  {
+    "id": "sun-disk-of-aravia",
+    "name": "The Sun Disk of Aravia",
+    "category": "Antiquities",
+    "roomId": "egyptian",
+    "image": "sun-disk-of-aravia",
+    "period": "circa 1350 BCE (sample)",
+    "featured": true,
+    "shortDescription": "A gilded disk said to symbolise the sun, recovered from a riverside temple complex.",
+    "history": "This disk is presented as an example of ritual metalwork from the ancient river kingdoms. According to the sample catalogue, objects of this kind were mounted above temple gateways and carried in seasonal festivals. The decorative band of repeating rays is thought to represent the sun's circuit across the sky. As a teaching piece, it illustrates how sacred objects blended function, ornament, and meaning.",
+    "facts": [
+      "The disk is just over 30 cm across (sample measurement).",
+      "Its surface was originally finished with a thin gold leaf, traces of which remain.",
+      "Similar disks are often interpreted as solar symbols in the sample records.",
+      "Conservators stabilised the metal with a reversible coating for display."
+    ]
+  },
+  {
+    "id": "vessel-of-the-river-kingdom",
+    "name": "Vessel of the River Kingdom",
+    "category": "Antiquities",
+    "roomId": "egyptian",
+    "image": "vessel-of-the-river-kingdom",
+    "period": "circa 1200 BCE (sample)",
+    "featured": false,
+    "shortDescription": "A slender ceremonial vessel with a curved spout and painted band of reeds.",
+    "history": "Used here as an example of everyday craft elevated to ceremony, this vessel shows the clean lines and natural motifs typical of riverside communities. The painted reed band likely referred to the local landscape. Sample records suggest such vessels held offerings or scented oils during rites. It demonstrates how useful objects could carry symbolic meaning.",
+    "facts": [
+      "The vessel stands about 24 cm tall (sample measurement).",
+      "Pigments were derived from minerals found along the riverbanks.",
+      "The pointed base was designed to sit in a stand, not stand alone.",
+      "A small maker's mark is visible near the rim."
+    ]
+  },
+  {
+    "id": "marble-reliefs-of-the-old-forum",
+    "name": "Marble Reliefs of the Old Forum",
+    "category": "Antiquities",
+    "roomId": "antiquities",
+    "image": "marble-reliefs-of-the-old-forum",
+    "period": "circa 100 CE (sample)",
+    "featured": true,
+    "shortDescription": "A set of carved marble panels depicting figures moving through a public square.",
+    "history": "These reliefs are shown as a representative example of civic sculpture. The panels depict a procession moving through a colonnaded square, a common scene in commemorative art. The depth of carving is modest, suggesting they formed part of a larger decorative scheme rather than a standalone monument. Together they help visitors picture the rhythm of public life in an ancient city.",
+    "facts": [
+      "Three panels survive in this sample set.",
+      "Traces of paint indicate the reliefs were once brightly coloured.",
+      "The figures are carved in shallow relief, a cost-effective style.",
+      "One panel shows an inscription fragment now only partly readable."
+    ]
+  },
+  {
+    "id": "ceremonial-helm-of-the-tenth-legion",
+    "name": "The Ceremonial Helm of the Tenth Legion",
+    "category": "Antiquities",
+    "roomId": "antiquities",
+    "image": "ceremonial-helm-of-the-tenth-legion",
+    "period": "circa 80 CE (sample)",
+    "featured": false,
+    "shortDescription": "An ornate bronze helm with cheek guards and a crested mount.",
+    "history": "Presented as an example of military metalwork, this helm combines protection with display. The cheek guards and reinforced brow follow standard forms, while the engraved decoration suggests a ceremonial or officer's piece rather than everyday field equipment. It offers a way to discuss how armies used ornament to signal rank and unit identity.",
+    "facts": [
+      "The crest mount would have held feathers or horsehair.",
+      "Bronze was preferred for its strength and warm finish.",
+      "The helm weighs roughly 2 kg (sample measurement).",
+      "Engraving on the cheek guards may mark the unit."
+    ]
+  },
+  {
+    "id": "the-harbor-at-dawn",
+    "name": "The Harbor at Dawn",
+    "category": "Paintings",
+    "roomId": "renaissance",
+    "image": "the-harbor-at-dawn",
+    "period": "circa 1560 (sample)",
+    "featured": true,
+    "shortDescription": "An oil painting of a calm harbour at first light, with boats and distant towers.",
+    "history": "Used here as an example of landscape painting, this panel captures a harbour stirring to life at dawn. The artist arranged masts, buildings, and reflections to draw the eye from foreground to horizon. The soft handling of light shows the growing interest in atmosphere that defined the period. It is included to illustrate how painters learned to suggest time of day through colour.",
+    "facts": [
+      "The painting is executed in oil on a wood panel.",
+      "The horizon is placed low to emphasise the sky.",
+      "Sample records note a possible underdrawing beneath the paint.",
+      "The signature, if original, appears in the lower corner."
+    ]
+  },
+  {
+    "id": "portrait-of-a-lady-in-blue",
+    "name": "Portrait of a Lady in Blue",
+    "category": "Paintings",
+    "roomId": "renaissance",
+    "image": "portrait-of-a-lady-in-blue",
+    "period": "circa 1590 (sample)",
+    "featured": false,
+    "shortDescription": "A formal portrait of a seated figure in a blue gown against a dark backdrop.",
+    "history": "This portrait is shown as an example of court painting and the role of costume in conveying status. The blue of the gown was a costly pigment, signalling wealth and refinement. The sitter's composed expression and steady gaze reflect the conventions of formal portraiture. The work helps visitors consider how portraits served both likeness and self-presentation.",
+    "facts": [
+      "The blue pigment was likely derived from lapis lazuli.",
+      "The dark background helps the figure stand forward.",
+      "Sample notes describe fine brushwork in the lace collar.",
+      "The identity of the sitter is not recorded in the sample data."
+    ]
+  },
+  {
+    "id": "composition-in-red-and-ochre",
+    "name": "Composition in Red and Ochre",
+    "category": "Paintings",
+    "roomId": "modern",
+    "image": "composition-in-red-and-ochre",
+    "period": "circa 1925 (sample)",
+    "featured": true,
+    "shortDescription": "An abstract composition of interlocking red and ochre shapes on a pale ground.",
+    "history": "Included as an example of early abstraction, this work reduces subjects to flat planes of colour. The artist balanced warm reds and earthy ochres against a quiet background to create rhythm without depicting a scene. It represents a shift in which painting explored relationships of shape and colour for their own sake. The piece helps visitors see how modern art moved away from description toward structure.",
+    "facts": [
+      "The composition is built from fewer than a dozen main shapes.",
+      "Borders between colours are kept deliberately crisp.",
+      "Sample records list the support as canvas on a stretcher.",
+      "The work was originally shown in a small group exhibition."
+    ]
+  },
+  {
+    "id": "the-glass-garden",
+    "name": "The Glass Garden",
+    "category": "Paintings",
+    "roomId": "modern",
+    "image": "the-glass-garden",
+    "period": "circa 1948 (sample)",
+    "featured": false,
+    "shortDescription": "A luminous painting of abstracted plant forms rendered in layered greens.",
+    "history": "Shown as an example of painting inspired by nature, this work translates a garden into overlapping translucent greens. Rather than describing specific plants, the artist suggested growth, light, and depth through layered colour. It demonstrates how modern painters could evoke a place through sensation rather than detail. The piece invites visitors to compare it with realistic botanical art nearby.",
+    "facts": [
+      "Layered glazes give the greens a sense of depth.",
+      "No single plant is identifiable in the finished work.",
+      "The title was chosen after the painting was complete.",
+      "Sample notes mention the artist's interest in glasshouses."
+    ]
+  },
+  {
+    "id": "crested-lizard-fossil",
+    "name": "Crested Lizard Fossil",
+    "category": "Natural History",
+    "roomId": "natural-history",
+    "image": "crested-lizard-fossil",
+    "period": "Mesozoic era (sample)",
+    "featured": true,
+    "shortDescription": "A fossil skeleton of a small crested reptile preserved in fine-grained rock.",
+    "history": "Displayed as an example of a fossil specimen, this skeleton preserves a small reptile with a distinctive crest along its back. The fine-grained rock captured delicate bones in remarkable detail, allowing scientists to study its proportions. Such specimens help explain how animals were adapted to their environments. The fossil is included to illustrate preservation and the evidence behind reconstructions.",
+    "facts": [
+      "The specimen is roughly 60 cm long (sample measurement).",
+      "Fine sediment helped preserve fragile bones.",
+      "The crest's exact function is debated in sample notes.",
+      "The slab was prepared by removing matrix grain by grain."
+    ]
+  },
+  {
+    "id": "the-ammonite-collection",
+    "name": "The Ammonite Collection",
+    "category": "Natural History",
+    "roomId": "natural-history",
+    "image": "the-ammonite-collection",
+    "period": "Various, Mesozoic (sample)",
+    "featured": false,
+    "shortDescription": "A display of coiled ammonite shells showing a range of sizes and ribbing patterns.",
+    "history": "Presented as an example of a study collection, this group of ammonites shows how shell shape varied across species and time. The coiled shells, often replaced by minerals, preserve the spiral growth pattern of these ancient sea creatures. Arranged together, they reveal patterns of variation and change. The display helps visitors understand how collections support comparison and discovery.",
+    "facts": [
+      "Some shells are preserved in iron pyrite, giving a golden look.",
+      "Spiral growth follows a consistent mathematical pattern.",
+      "The largest specimen in the set is about 15 cm across.",
+      "Sample labels record where each specimen was collected."
+    ]
+  },
+  {
+    "id": "brass-orrery-of-the-inner-planets",
+    "name": "Brass Orrery of the Inner Planets",
+    "category": "Science & Technology",
+    "roomId": "science",
+    "image": "brass-orrery-of-the-inner-planets",
+    "period": "circa 1760 (sample)",
+    "featured": true,
+    "shortDescription": "A mechanical model of brass arms and spheres showing the inner planets orbiting the sun.",
+    "history": "Shown as an example of a scientific instrument, this orrery uses geared brass arms to model the motion of the inner planets around the sun. Turning a crank moves each planet along its arm at a scaled relative speed. Such instruments taught the structure of the solar system at a time when astronomy was rapidly advancing. It illustrates how mechanical models made abstract ideas visible and tangible.",
+    "facts": [
+      "The model represents the sun and the four inner planets.",
+      "Gears set each planet's speed in rough proportion.",
+      "The brass retains much of its original lacquer.",
+      "A hand crank drives the mechanism through a single shaft."
+    ]
+  },
+  {
+    "id": "the-mariners-astrolabe",
+    "name": "The Mariner's Astrolabe",
+    "category": "Science & Technology",
+    "roomId": "science",
+    "image": "the-mariners-astrolabe",
+    "period": "circa 1600 (sample)",
+    "featured": false,
+    "shortDescription": "A brass navigational instrument with a suspended ring and rotating alidade.",
+    "history": "Displayed as an example of a navigational instrument, the mariner's astrolabe was used to measure the height of the sun or a star above the horizon. From that angle, sailors could estimate their latitude at sea. Its heavy brass ring kept it steady on a rolling ship. The object helps visitors appreciate the practical science behind long-distance navigation.",
+    "facts": [
+      "Suspended by its ring, it hung steady against a ship's motion.",
+      "Readings were taken at noon when the sun was highest.",
+      "The scale is graduated in degrees along the rim.",
+      "Sample records note wear consistent with shipboard use."
+    ]
+  }
+]

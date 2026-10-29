@@ -1,0 +1,93 @@
+[
+  {
+    "id": "entrance-hall",
+    "name": "Entrance Hall",
+    "description": "The main lobby where every visit begins. Tickets, information desk, and the central corridor to all wings.",
+    "x": 250,
+    "y": 40,
+    "w": 180,
+    "h": 130,
+    "isEntrance": true,
+    "connectsTo": ["antiquities", "renaissance", "atrium"]
+  },
+  {
+    "id": "antiquities",
+    "name": "Antiquities Gallery",
+    "description": "Greek and Roman antiquities, including sculpture, reliefs, and military artifacts.",
+    "x": 40,
+    "y": 40,
+    "w": 180,
+    "h": 130,
+    "connectsTo": ["entrance-hall", "egyptian"]
+  },
+  {
+    "id": "renaissance",
+    "name": "Renaissance Gallery",
+    "description": "Paintings and decorative arts from the Renaissance and early modern periods.",
+    "x": 460,
+    "y": 40,
+    "w": 180,
+    "h": 130,
+    "connectsTo": ["entrance-hall", "modern"]
+  },
+  {
+    "id": "egyptian",
+    "name": "Egyptian Wing",
+    "description": "Artifacts and objects from the river kingdoms of the ancient world.",
+    "x": 40,
+    "y": 210,
+    "w": 180,
+    "h": 130,
+    "connectsTo": ["antiquities", "atrium", "natural-history"]
+  },
+  {
+    "id": "atrium",
+    "name": "Central Atrium",
+    "description": "An open rotunda connecting the upper galleries with the lower halls.",
+    "x": 250,
+    "y": 210,
+    "w": 180,
+    "h": 130,
+    "connectsTo": ["entrance-hall", "egyptian", "modern", "science"]
+  },
+  {
+    "id": "modern",
+    "name": "Modern Art Wing",
+    "description": "Twentieth-century painting, abstraction, and contemporary works.",
+    "x": 460,
+    "y": 210,
+    "w": 180,
+    "h": 130,
+    "connectsTo": ["renaissance", "atrium", "cafe"]
+  },
+  {
+    "id": "natural-history",
+    "name": "Natural History Hall",
+    "description": "Fossils, minerals, and specimens from the natural world.",
+    "x": 40,
+    "y": 380,
+    "w": 180,
+    "h": 130,
+    "connectsTo": ["egyptian", "science"]
+  },
+  {
+    "id": "science",
+    "name": "Science Pavilion",
+    "description": "Instruments of discovery: navigation, astronomy, and early technology.",
+    "x": 250,
+    "y": 380,
+    "w": 180,
+    "h": 130,
+    "connectsTo": ["atrium", "natural-history", "cafe"]
+  },
+  {
+    "id": "cafe",
+    "name": "Cafe & Gift Shop",
+    "description": "Rest, refreshments, and the museum gift shop near the east exit.",
+    "x": 460,
+    "y": 380,
+    "w": 180,
+    "h": 130,
+    "connectsTo": ["modern", "science"]
+  }
+]
